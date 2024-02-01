@@ -1,7 +1,7 @@
 # OOPMyBank
 
 ## Overview
-This is a simple OOPMyBank Project implemented in Typescript.
+This repository contains the source code and associated files for the OOPMYBANK project. The project is a text-based interactive OOPMYBANK implemented in Typescript
 
 ## Usage
 Run the Project:
